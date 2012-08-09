@@ -55,9 +55,19 @@ div.date-views-pager div.next-year {
   padding-bottom: 1.5em;
   width: 100%;
 }
-.date-nav div.date-heading h3 {
+.date-nav {
   margin: 0;
   padding: 0;
+}
+
+div.date-heading h3 {
+	font-family: 'Homenaje', sans-serif;
+	text-transform: uppercase;
+	font-size: 22px;
+	color: #CCC;
+	margin: 0px 0px 15px 15px;
+	padding: 0px;
+	letter-spacing: -1px;
 }
 
 .date-nav-wrapper .clear-block {
