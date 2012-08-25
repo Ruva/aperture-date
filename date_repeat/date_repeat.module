@@ -50,8 +50,8 @@ function date_repeat_freq_options() {
   return array(
     'DAILY' => t('Daily', array(), array('context' => 'datetime_singular')),
     'WEEKLY' => t('Weekly', array(), array('context' => 'datetime_singular')),
-    'MONTHLY' => t('Monthly', array(), array('context' => 'datetime_singular')),
-    'YEARLY' => t('Yearly', array(), array('context' => 'datetime_singular')),
+ /*   'MONTHLY' => t('Monthly', array(), array('context' => 'datetime_singular')),
+    'YEARLY' => t('Yearly', array(), array('context' => 'datetime_singular')),*/
   );
 }
 
